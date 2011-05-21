@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Hola mundo!" << endl;
-    return 0;
+    for (int i = 1; i < 100; i++)
+    {
+        cout << "Numero " << i << endl;
+    }
 }
